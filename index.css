@@ -1,1 +1,12 @@
 /* оформление главной страницы */
+header {
+display: inline-block;
+}
+
+.recipe{
+display:inline;
+}
+
+.button {
+
+}
