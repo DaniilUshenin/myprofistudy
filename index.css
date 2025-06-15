@@ -1,15 +1,23 @@
 /* оформление главной страницы */
-body{
-background: #FAEBD7 ;
+body{}
+
+
+.site {
+background: #FAEBD7 url(images/new_background.jpeg) ;
 background-size: cover;
+background-attachment: fixed;
+color: white;
 }
 
+
 header {
+background: #FAEBD7;
 display: inline;
 }
 
 .recipe{
 display:inline;
+color: #FFFFE0;
 
 }
 
@@ -19,4 +27,14 @@ font-family:;
 
 .nav{
 /* сдвинуть навигацию до конца впрво*/
+
+}
+
+a {
+text-decoration:none ;
+color: black;
+}
+
+.logo {
+/* отформатировать логотип */
 }
