@@ -1,12 +1,22 @@
 /* оформление главной страницы */
+body{
+background: #FAEBD7 ;
+background-size: cover;
+}
+
 header {
-display: inline-block;
+display: inline;
 }
 
 .recipe{
 display:inline;
+
 }
 
-.button {
+p{
+font-family:;
+}
 
+.nav{
+/* сдвинуть навигацию до конца впрво*/
 }
