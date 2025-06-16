@@ -1,0 +1,29 @@
+table {
+background: color: #17e339;
+align: center;
+}
+.two {
+background: color:#17e398;
+}
+
+.img {
+ float: left;
+
+ }
+
+.about {
+background: color: #7b68ee7b68ee;
+width: 100vw;
+}
+
+thead {
+background: color: #17e339;
+}
+
+.table-list {
+float: none;
+}
+h2 {
+ clear: both;
+
+}
