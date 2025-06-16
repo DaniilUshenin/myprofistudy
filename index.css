@@ -1,6 +1,8 @@
 /* оформление главной страницы */
 body{
 font-family:New Century Schoolbook;
+padding: 0px;
+margin: 0px;
 }
 
 
@@ -44,4 +46,21 @@ color: black;
 
 h2 {
 font-size: 32px;
+}
+
+button {
+background-color: rgba(255, 255, 255, 0.5); /* Белый цвет с 50% прозрачностью */
+  border: none;    /* Убирает границу */
+  padding: 0;      /* Убирает отступы */
+  cursor: pointer; /* Сохраняет курсор-указатель */
+}
+
+.img {
+float: left;
+}
+
+.header {
+padding: 5px;
+margin: 5px;
+background: #FAEBD7;
 }
