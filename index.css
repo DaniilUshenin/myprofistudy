@@ -1,5 +1,7 @@
 /* оформление главной страницы */
-body{}
+body{
+font-family:New Century Schoolbook;
+}
 
 
 .site {
@@ -22,6 +24,7 @@ color: #FFFFE0;
 }
 
 p{
+font-size: 16px;
 font-family:;
 }
 
@@ -37,4 +40,8 @@ color: black;
 
 .logo {
 /* отформатировать логотип */
+}
+
+h2 {
+font-size: 32px;
 }
